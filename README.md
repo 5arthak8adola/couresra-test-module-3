@@ -1,7 +1,3 @@
-# couresra-test
-Coursera test repository for assignment and test submitions  
-<!DOCTYPE html>
-<html>
   <title>Hello Coursera!</title>
   </head>
   <body>
