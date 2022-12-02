@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 
 <head>
@@ -52,4 +52,4 @@
             </ul>
         </section>
    
-</html>
+
