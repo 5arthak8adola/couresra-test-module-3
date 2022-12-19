@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html lang="en">
 <h1>module3-solution By Sarthak Badola
 <head>
@@ -139,5 +139,5 @@
 
 </body>
 
-</html>
+
 
