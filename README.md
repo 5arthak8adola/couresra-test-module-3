@@ -1,4 +1,4 @@
-# couresra-test-module-4
+
 
 <!DOCTYPE html>
 <html>
@@ -13,6 +13,6 @@
   <script src="script.js"></script>
 </head>
 <body>
-  <h1>Module 4 Solution Sarthak Badola</h1>
+  <h1>Module 4 Solution Starter</h1>
 </body>
 </html>
