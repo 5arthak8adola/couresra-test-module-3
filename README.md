@@ -1,2 +1,17 @@
 # couresra-test-module-4
-Coursera test repository for assignment and test submitions  
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Module 4 Solution Starter</title>
+  <script>
+    var names = [];
+  </script>
+  <script src="SpeakGoodBye.js"></script>
+  <script src="SpeakHello.js"></script>
+  <script src="script.js"></script>
+</head>
+<body>
+  <h1>Module 4 Solution Sarthak Badola</h1>
+</body>
+</html>
